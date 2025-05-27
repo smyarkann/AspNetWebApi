@@ -1,0 +1,19 @@
+# Visual Studio dosyaları
+.vs/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.log
+*.vsidx
+*.vscode/
+
+# Derleme çıktıları
+bin/
+obj/
+
+# Kullanıcıya özel dosyalar
+*.userprefs
+
+# Diğer
+node_modules/

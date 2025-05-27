@@ -1,0 +1,15 @@
+2025-05-21 16:41:42.2096 Info Message Template Auto Format enabled
+2025-05-21 16:41:42.3859 Info Adding target FileTarget(Name=logfile)
+2025-05-21 16:41:42.4157 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=F:\basics\bsStoreApp\WebApi\nlog.config
+2025-05-23 11:37:14.6744 Info Message Template Auto Format enabled
+2025-05-23 11:37:14.8410 Info Adding target FileTarget(Name=logfile)
+2025-05-23 11:37:14.8754 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=F:\basics\bsStoreApp\WebApi\nlog.config
+2025-05-23 11:40:03.1764 Info Message Template Auto Format enabled
+2025-05-23 11:40:03.2366 Info Adding target FileTarget(Name=logfile)
+2025-05-23 11:40:03.2617 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=F:\basics\bsStoreApp\WebApi\nlog.config
+2025-05-23 11:47:07.1579 Info Message Template Auto Format enabled
+2025-05-23 11:47:07.2647 Info Adding target FileTarget(Name=logfile)
+2025-05-23 11:47:07.2996 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=F:\basics\bsStoreApp\WebApi\nlog.config
+2025-05-23 12:16:11.2935 Info Message Template Auto Format enabled
+2025-05-23 12:16:11.4071 Info Adding target FileTarget(Name=logfile)
+2025-05-23 12:16:11.4405 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=F:\basics\bsStoreApp\WebApi\nlog.config
